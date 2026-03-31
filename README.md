@@ -14,7 +14,7 @@ Simulação de um sistema que verifica condições para decolagem com base em te
 2. Execute: simulacao_pre_decolagem.py
 
 ## Exemplo de execução
-![Execução do sistema](resultado_pre_decolagem.png)
+![Execução do sistema](resultado_aurora_siger.png)
 
 ## Autor
 Guilherme
